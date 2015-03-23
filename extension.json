@@ -3,6 +3,7 @@
     "version": 1,
     "name_key": "ExtName",
     "desc_key": "ExtDesc",
+    "message_key": "ExtMsg",
     "extension_type": "Deploy",
     "inputs": [
         {
